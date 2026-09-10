@@ -1,1 +1,3 @@
-# cs200-lab2-group-18
+# Lab 2 Practice
+Team: Group 18
+Members: Dan, David, Doha, Everyone
